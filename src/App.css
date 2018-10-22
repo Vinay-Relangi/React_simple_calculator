@@ -1,0 +1,7 @@
+.center-div{
+    margin: 6% auto;
+    width: 21%;
+    border: 2px solid rgb(79, 191, 232);
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.5),inset 5px 5px 8px rgba(0,0,0,0.5);
+}
