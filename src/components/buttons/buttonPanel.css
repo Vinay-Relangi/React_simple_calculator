@@ -1,0 +1,13 @@
+.buttonPanel{
+    padding:10px;
+    border:1px solid #bbb;
+    margin-top:5px;
+}
+
+.default-button {
+    margin: 10px !important;
+}
+
+.equal-class{
+    width:56%;
+}
